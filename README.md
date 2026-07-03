@@ -28,5 +28,3 @@ creative approach to problem solving.
 - 📫 Email: stefanomstt@gmail.com
 
 ---
-
-> _"Build things that are useful, elegant, and enjoyable to use."_
