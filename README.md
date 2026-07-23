@@ -1,6 +1,6 @@
 # Hi, I'm Stefano Altavista Mascitti
 
-**Full Stack Engineer · Web Designer · Musician & Sound Designer**
+**Full Stack Engineer · Web Designer · Sound Designer**
 
 I enjoy building products that combine thoughtful user experiences with
 solid backend architecture. My work spans full-stack web development, AI
