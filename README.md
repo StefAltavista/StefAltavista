@@ -23,8 +23,3 @@ creative approach to problem solving.
 
 ## Let's Connect
 
-- 🌐 Website: https://stefanoaltavista.com
-- 💼 LinkedIn: www.linkedin.com/in/stefano-mascitti
-- 📫 Email: stefanomstt@gmail.com
-
----
